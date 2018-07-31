@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<table1>
+    <Detail_collection>
+        <Detail text1="sometext1" text2="sometext2" text3="sometext3" />
+        <Detail text1="11111" text2="sometext21" text3="sometext31" />
+        <Detail text1="22222" text2="sometext22" text3="sometext32" />
+        <Detail text1="33333" text2="sometext23" text3="sometext33" />
+        <Detail text1="44444" text2="sometext24" text3="sometext34" />
+        <Detail text1="55555" text2="sometext25" text3="sometext35" />
+    </Detail_collection>
+</table1>
